@@ -1,7 +1,7 @@
 const allowedOrigins = [
-    'http://localhost:4000',
-    "https://www.padmanabhb.com",
+    'http://localhost:3000',
+    'https://www.padmanabhb.com',
     'https://paddub.com'
 ]
 
-module.exports = allowedOrigins;
+module.exports = allowedOrigins
